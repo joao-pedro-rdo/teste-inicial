@@ -21,5 +21,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           API_TOKEN: ${{ secrets.API_GEMINI }}
           MODEL_NAME: "gemini-1.5-flash"
-          NAME_DOCKERFILE: "dockerfile"
+          NAME_DOCKERFILE: "Dockerfile"
+
 
